@@ -1,0 +1,33 @@
+away_team,home_team,result,home_score,away_score,spread_line,away_spread_odds,home_spread_odds,total_line,under_odds,over_odds,away_moneyline,home_moneyline,surface,roof,location,away_rest,home_rest,away_qb_name,home_qb_name,away_coach,home_coach,stadium,home_win,season
+BAL,KC,7.0,27.0,20.0,3.0,-118.0,-102.0,46.0,-110.0,-110.0,124.0,-148.0,grass,outdoors,Home,7,7,Lamar Jackson,Patrick Mahomes,John Harbaugh,Andy Reid,GEHA Field at Arrowhead Stadium,1,2024
+GB,PHI,5.0,34.0,29.0,2.0,-110.0,-110.0,49.5,-112.0,-108.0,110.0,-130.0,,outdoors,Neutral,7,7,Jordan Love,Jalen Hurts,Matt LaFleur,Nick Sirianni,Arena Corinthians,1,2024
+PIT,ATL,-8.0,10.0,18.0,4.0,-110.0,-110.0,43.0,-115.0,-105.0,160.0,-192.0,fieldturf,closed,Home,7,7,Justin Fields,Kirk Cousins,Mike Tomlin,Raheem Morris,Mercedes-Benz Stadium,0,2024
+ARI,BUF,6.0,34.0,28.0,6.5,-105.0,-115.0,46.0,-112.0,-108.0,250.0,-310.0,a_turf,outdoors,Home,7,7,Kyler Murray,Josh Allen,Jonathan Gannon,Sean McDermott,New Era Field,1,2024
+TEN,CHI,7.0,24.0,17.0,4.0,-108.0,-112.0,43.0,-110.0,-110.0,164.0,-198.0,grass,outdoors,Home,7,7,Will Levis,Caleb Williams,Brian Callahan,Matt Eberflus,Soldier Field,1,2024
+NE,CIN,-6.0,10.0,16.0,8.0,-110.0,-110.0,40.5,-112.0,-108.0,295.0,-375.0,fieldturf,outdoors,Home,7,7,Jacoby Brissett,Joe Burrow,Jerod Mayo,Zac Taylor,Paycor Stadium,0,2024
+HOU,IND,-2.0,27.0,29.0,-3.0,-108.0,-112.0,49.0,-112.0,-108.0,-155.0,130.0,fieldturf,closed,Home,7,7,C.J. Stroud,Anthony Richardson,DeMeco Ryans,Shane Steichen,Lucas Oil Stadium,0,2024
+JAX,MIA,3.0,20.0,17.0,3.5,-110.0,-110.0,49.5,-112.0,-108.0,150.0,-180.0,grass,outdoors,Home,7,7,Trevor Lawrence,Tua Tagovailoa,Doug Pederson,Mike McDaniel,Hard Rock Stadium,1,2024
+CAR,NO,37.0,47.0,10.0,3.5,-108.0,-112.0,41.5,-112.0,-108.0,160.0,-192.0,sportturf,dome,Home,7,7,Bryce Young,Derek Carr,Dave Canales,Dennis Allen,Mercedes-Benz Superdome,1,2024
+MIN,NYG,-22.0,6.0,28.0,-1.0,-108.0,-112.0,42.5,-108.0,-112.0,-115.0,-105.0,fieldturf,outdoors,Home,7,7,Sam Darnold,Daniel Jones,Kevin O'Connell,Brian Daboll,MetLife Stadium,0,2024
+LV,LAC,12.0,22.0,10.0,3.0,-118.0,-102.0,41.0,-108.0,-112.0,130.0,-155.0,matrixturf,dome,Home,7,7,Gardner Minshew,Justin Herbert,Antonio Pierce,Jim Harbaugh,SoFi Stadium,1,2024
+DEN,SEA,6.0,26.0,20.0,6.5,-110.0,-110.0,42.0,-108.0,-112.0,225.0,-278.0,fieldturf,outdoors,Home,7,7,Bo Nix,Geno Smith,Sean Payton,Mike Macdonald,Lumen Field,1,2024
+DAL,CLE,-16.0,17.0,33.0,2.5,-112.0,-108.0,42.0,-108.0,-112.0,110.0,-130.0,grass,outdoors,Home,7,7,Dak Prescott,Deshaun Watson,Mike McCarthy,Kevin Stefanski,FirstEnergy Stadium,0,2024
+WAS,TB,17.0,37.0,20.0,4.0,-112.0,-108.0,42.0,-110.0,-110.0,164.0,-198.0,grass,outdoors,Home,7,7,Jayden Daniels,Baker Mayfield,Dan Quinn,Todd Bowles,Raymond James Stadium,1,2024
+LA,DET,6.0,26.0,20.0,5.0,-108.0,-112.0,54.0,-112.0,-108.0,185.0,-225.0,fieldturf,dome,Home,7,7,Matthew Stafford,Jared Goff,Sean McVay,Dan Campbell,Ford Field,1,2024
+NYJ,SF,13.0,32.0,19.0,3.5,-115.0,-105.0,43.0,-108.0,-112.0,150.0,-180.0,grass,outdoors,Home,7,7,Aaron Rodgers,Brock Purdy,Robert Saleh,Kyle Shanahan,Levi's Stadium,1,2024
+BUF,MIA,,,,2.0,-110.0,-110.0,49.0,-110.0,-110.0,110.0,-130.0,grass,outdoors,Home,4,4,Josh Allen,Tua Tagovailoa,Sean McDermott,Mike McDaniel,Hard Rock Stadium,,2024
+LV,BAL,,,,9.5,-108.0,-112.0,41.5,-112.0,-108.0,360.0,-470.0,grass,outdoors,Home,7,10,Gardner Minshew,Lamar Jackson,Antonio Pierce,John Harbaugh,M&T Bank Stadium,,2024
+LAC,CAR,,,,-6.5,-110.0,-110.0,39.0,-108.0,-112.0,-278.0,225.0,grass,outdoors,Home,7,7,Justin Herbert,Bryce Young,Jim Harbaugh,Dave Canales,Bank of America Stadium,,2024
+NO,DAL,,,,6.5,-110.0,-110.0,45.5,-108.0,-112.0,230.0,-285.0,matrixturf,closed,Home,7,7,Derek Carr,Dak Prescott,Dennis Allen,Mike McCarthy,AT&T Stadium,,2024
+TB,DET,,,,7.0,-112.0,-108.0,51.0,-108.0,-112.0,270.0,-340.0,fieldturf,dome,Home,7,7,Baker Mayfield,Jared Goff,Todd Bowles,Dan Campbell,Ford Field,,2024
+IND,GB,,,,-3.5,-105.0,-115.0,40.5,-108.0,-112.0,-170.0,142.0,grass,outdoors,Home,7,9,Anthony Richardson,Malik Willis,Shane Steichen,Matt LaFleur,Lambeau Field,,2024
+CLE,JAX,,,,3.5,-112.0,-108.0,41.5,-110.0,-110.0,142.0,-170.0,grass,outdoors,Home,7,7,Deshaun Watson,Trevor Lawrence,Kevin Stefanski,Doug Pederson,TIAA Bank Stadium,,2024
+SF,MIN,,,,-6.0,-112.0,-108.0,45.5,-110.0,-110.0,-265.0,215.0,sportturf,dome,Home,6,7,Brock Purdy,Sam Darnold,Kyle Shanahan,Kevin O'Connell,U.S. Bank Stadium,,2024
+SEA,NE,,,,-3.0,-120.0,100.0,38.0,-112.0,-108.0,-170.0,142.0,fieldturf,outdoors,Home,7,7,Geno Smith,Jacoby Brissett,Mike Macdonald,Jerod Mayo,Gillette Stadium,,2024
+NYJ,TEN,,,,-4.0,-112.0,-108.0,42.0,-110.0,-110.0,-198.0,164.0,grass,outdoors,Home,6,7,Aaron Rodgers,Will Levis,Robert Saleh,Brian Callahan,Nissan Stadium,,2024
+NYG,WAS,,,,2.5,-108.0,-112.0,44.0,-108.0,-112.0,114.0,-135.0,grass,outdoors,Home,7,7,Daniel Jones,Jayden Daniels,Brian Daboll,Dan Quinn,FedExField,,2024
+LA,ARI,,,,1.5,-110.0,-110.0,49.5,-112.0,-108.0,102.0,-122.0,grass,closed,Home,7,7,Matthew Stafford,Kyler Murray,Sean McVay,Jonathan Gannon,State Farm Stadium,,2024
+PIT,DEN,,,,-3.0,-105.0,-115.0,36.5,-110.0,-110.0,-162.0,136.0,grass,outdoors,Home,7,7,Russell Wilson,Bo Nix,Mike Tomlin,Sean Payton,Empower Field at Mile High,,2024
+CIN,KC,,,,6.0,-112.0,-108.0,48.0,-110.0,-110.0,210.0,-258.0,grass,outdoors,Home,7,10,Joe Burrow,Patrick Mahomes,Zac Taylor,Andy Reid,GEHA Field at Arrowhead Stadium,,2024
+CHI,HOU,,,,6.5,-105.0,-115.0,45.5,-108.0,-112.0,240.0,-298.0,astroturf,closed,Home,7,7,Caleb Williams,C.J. Stroud,Matt Eberflus,DeMeco Ryans,NRG Stadium,,2024
+ATL,PHI,,,,6.5,-105.0,-115.0,47.0,-112.0,-108.0,240.0,-298.0,grass,outdoors,Home,8,10,Kirk Cousins,Jalen Hurts,Raheem Morris,Nick Sirianni,Lincoln Financial Field,,2024
